@@ -32,11 +32,12 @@ Source: Kaggle - [ankitbansal06/retail-orders](https://www.kaggle.com/datasets/a
 
 ### 5.	Features / Highlights
 
-1] Data Extraction:  
+#### 1] Data Extraction:  
 
 Automated dataset download via Kaggle API  
 
-2] Data Transformation:  
+
+#### 2] Data Transformation:  
 
 Handling missing values (Not Available, unknown)  
 
@@ -54,13 +55,15 @@ Conversion of date fields to datetime format
 
 Removal of unnecessary columns  
 
-3] Data Loading:  
+
+#### 3] Data Loading:  
 
 Connection to PostgreSQL via SQLAlchemy & psycopg2  
 
 Loading transformed data into df_orders table  
 
-4] SQL Analysis Queries:  
+
+#### 4] SQL Analysis Queries:  
 
 Top 10 highest revenue-generating products  
 
