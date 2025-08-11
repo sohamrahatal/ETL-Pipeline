@@ -1,11 +1,5 @@
 # 🛍 Retail Orders ETL Pipeline & Sales Analysis  
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-blue?logo=postgresql)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
 ---
 
 ## 📚 **Table of Contents**
@@ -82,5 +76,3 @@ The goal of this project is to showcase:
 5. 💹 **Sub-category with highest profit growth (2023 vs 2022)**  
 
 ---
-
-💡 *This project is a complete ETL + Analytics workflow, making it a strong portfolio piece for data engineering and analytics roles.*
