@@ -20,9 +20,7 @@ Reproducible and automated pipeline for retail analytics
 
 2) Database: PostgreSQL  
 
-3) Data Source: Kaggle Retail Orders Dataset  
-
-4) Other Tools: Kaggle API, Jupyter Notebook  
+3) Other Tools: Kaggle API, Jupyter Notebook  
 
 ### 4. Data Source
 
