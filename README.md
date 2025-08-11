@@ -16,13 +16,13 @@ Reproducible and automated pipeline for retail analytics
 
 ### 3. Tech Stack
 
-Programming Language: Python (Pandas, SQLAlchemy, psycopg2)  
+1) Programming Language: Python (Pandas, SQLAlchemy, psycopg2)  
 
-Database: PostgreSQL  
+2) Database: PostgreSQL  
 
-Data Source: Kaggle Retail Orders Dataset  
+3) Data Source: Kaggle Retail Orders Dataset  
 
-Other Tools: Kaggle API, Jupyter Notebook  
+4) Other Tools: Kaggle API, Jupyter Notebook  
 
 ### 4. Data Source
 
@@ -45,11 +45,11 @@ Standardizing column names
 
 Feature engineering:  
 
-  Discount calculation  
+  --> Discount calculation  
   
-  Sale price computation  
+  --> Sale price computation  
   
-  Profit computation  
+  --> Profit computation  
   
 Conversion of date fields to datetime format  
 
@@ -65,12 +65,12 @@ Loading transformed data into df_orders table
 
 #### 4] SQL Analysis Queries:  
 
-Top 10 highest revenue-generating products  
+1) Top 10 highest revenue-generating products  
 
-Top 5 highest-selling products per region  
+2) Top 5 highest-selling products per region  
 
-Month-over-month sales growth comparison (2022 vs 2023)  
+3)Month-over-month sales growth comparison (2022 vs 2023)  
 
-Category-wise highest sales month  
+4)Category-wise highest sales month  
 
-Sub-category with highest profit growth (2023 vs 2022)  
+5) Sub-category with highest profit growth (2023 vs 2022)  
