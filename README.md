@@ -69,8 +69,8 @@ Loading transformed data into df_orders table
 
 2) Top 5 highest-selling products per region  
 
-3)Month-over-month sales growth comparison (2022 vs 2023)  
+3) Month-over-month sales growth comparison (2022 vs 2023)  
 
-4)Category-wise highest sales month  
+4) Category-wise highest sales month  
 
 5) Sub-category with highest profit growth (2023 vs 2022)  
